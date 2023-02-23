@@ -468,7 +468,7 @@ header
   right: 40px;
   z-index: 100;
   position: fixed;
-  box-shadow: 0 12px 30px 0 rgb(0,0,0,0.5);
+  box-shadow: 0 12px 30px 0 rgb(0, 0, 0, 0.5);
 }
 
 .scroll {
@@ -641,7 +641,6 @@ footer {
 
 .shape {
   position: fixed;
-  
 }
 
 .shape--0 {
@@ -680,9 +679,6 @@ footer {
   top: 80vh;
   left: 80vw;
 }
-
-
-
 
 /* Small phones, tablets, large smart phones */
 @media (max-width: 768px) {
