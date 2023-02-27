@@ -29,8 +29,8 @@ section {
   z-index: 2;
 }
 
-.orange {
-  color: #f06449 !important;
+.sap-green {
+  color: #71B280 !important;
 }
 
 span {
@@ -116,7 +116,7 @@ textarea:hover {
 }
 input:focus,
 textarea:focus {
-  border-color: #f06449;
+  border-color: #71B280;
 }
 
 .dark-theme .title,
@@ -333,8 +333,8 @@ MODAL
 }
 
 .form__submit {
-  background-color: #f06449;
-  border: 2px solid #f06449;
+  background-color: #71B280;
+  border: 2px solid #71B280;
   color: white;
   font-weight: bold;
   font-size: 20px;
@@ -350,8 +350,8 @@ MODAL
 }
 
 .form__submit:active {
-  border-color: #f06449;
-  color: #f06449;
+  border-color: #71B280;
+  color: #71B280;
 }
 
 .modal__overlay {
@@ -443,7 +443,7 @@ header
 }
 
 .social__link {
-  background-color: #f06449;
+  background-color: #71B280;
   color: white;
   padding: 6px;
   width: 32px;
@@ -524,6 +524,7 @@ header
 
 .project__img {
   width: 100%;
+  transform: scale(1.02);
 }
 
 .project__wrapper {
