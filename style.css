@@ -683,6 +683,10 @@ footer {
 
 /* Small phones, tablets, large smart phones */
 @media (max-width: 768px) {
+  nav > .img--wrapper{
+    padding-left: 16px;
+    
+  }
   .title {
     font-size: 80px;
   }
